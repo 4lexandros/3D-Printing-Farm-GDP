@@ -5,7 +5,10 @@
 The point of this literature reference document is to quickly provide an overview of the findings and research that has been conducted on the topic of 3D Printing Farms by the GDP_2425 group. A Findings section is provided directly after this section and is followed by a references list where the relevant scientific papers have been collected.
 
 ## Findings
+
 Thesis by Monika Radaviciute documents a very similar project to GDP_2425; Read this document and apply information.
+* Octoprint was used as the management software that controlled the 3D printer farm.
+- Octoprint is open source so it can be used in a very versatile manner without having to increase any costs. Having open-source software be the management software is also attractive for the customer to allow for further customisation of their farm.
 
 ## References List
 * Radaviciute, Monika. "3D Printing Farm Set-Up: Printers and Software." (2022) : https://www.theseus.fi/bitstream/handle/10024/744743/Radaviciute_Monika.pdf?sequence=2
